@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Trần Đức Trung
 * Student ID: BA12-179
-* Student Group ID: Not-for-now
+* Student Group ID: 03
