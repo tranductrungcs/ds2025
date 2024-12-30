@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyễn Hà Trung
+* Student Name: Nguyen Ha Trung
 * Student ID: 22BI13436
 * Student Group ID: 3
